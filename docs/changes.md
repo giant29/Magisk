@@ -1,3 +1,188 @@
+Mtk-easy-su 2.2.0
+extracted magisk-boot.sh
+extracted 32/magiskinit
+extracted 64/magiskinit
+extracted 32/mtk-su
+extracted 64/mtk-su
+[0] 
+
+[0] 9
+
+[0] Wed Aug  7 20:00:38 +03 2024
+
+[0] /data/user/0/juniojsv.mtk.easy.su/files:
+total 1.5M
+drwx------ 2 u0_a490 4.0K 2024-08-07 20:00 32
+drwx------ 2 u0_a490 4.0K 2024-08-07 20:00 64
+-rw------- 1 u0_a490  567 2024-08-07 20:00 PersistedInstallation.W0RFRkFVTFRd+MTo2OTczNzY1NDAxNDphbmRyb2lkOjIzZGMwMWQyYTRjOWQzYmY2ZjI3YWY.json
+drwx------ 2 u0_a490 4.0K 2024-08-07 20:00 al
+-rw------- 1 u0_a490 3.1M 2024-08-07 20:00 audience_network.dex
+-rw------- 1 u0_a490    0 2024-08-07 19:38 generatefid.lock
+-r-x--x--- 1 u0_a490 2.8K 2024-08-07 20:00 magisk-boot.sh
+drwx--x--x 3 u0_a490 4.0K 2024-08-07 19:38 oat
+
+/data/user/0/juniojsv.mtk.easy.su/files/32:
+total 218K
+-r-x--x--- 1 u0_a490 373K 2024-08-07 20:00 magiskinit
+-r-x--x--- 1 u0_a490  59K 2024-08-07 20:00 mtk-su
+
+/data/user/0/juniojsv.mtk.easy.su/files/64:
+total 230K
+-r-x--x--- 1 u0_a490 393K 2024-08-07 20:00 magiskinit
+-r-x--x--- 1 u0_a490  64K 2024-08-07 20:00 mtk-su
+
+/data/user/0/juniojsv.mtk.easy.su/files/al:
+total 2.0K
+-rw------- 1 u0_a490 2.3K 2024-08-07 20:00 persistent_postback_cache.json
+
+/data/user/0/juniojsv.mtk.easy.su/files/oat:
+total 2.0K
+drwx--x--x 2 u0_a490 4.0K 2024-08-07 19:38 arm
+-rw------- 1 u0_a490    0 2024-08-07 19:38 audience_network.dex.cur.prof
+
+/data/user/0/juniojsv.mtk.easy.su/files/oat/arm:
+total 1.5M
+-rw------- 1 u0_a490  68K 2024-08-07 19:38 audience_network.odex
+-rw------- 1 u0_a490 3.0M 2024-08-07 19:38 audience_network.vdex
+
+[0] processor	: 0
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm aes pmull sha1 sha2 crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+processor	: 1
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm aes pmull sha1 sha2 crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+processor	: 2
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm aes pmull sha1 sha2 crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+processor	: 3
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm aes pmull sha1 sha2 crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+processor	: 4
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm aes pmull sha1 sha2 crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+processor	: 5
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm aes pmull sha1 sha2 crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+processor	: 6
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm aes pmull sha1 sha2 crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+processor	: 7
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm aes pmull sha1 sha2 crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+Hardware	: Qualcomm Technologies, Inc SDM450
+Revision	: 0000
+Serial		: 0000000000000000
+Processor	: ARMv7 Processor rev 4 (v7l)
+
+[0] MemTotal:        3729440 kB
+MemFree:          298348 kB
+MemAvailable:    1507724 kB
+Buffers:          227492 kB
+Cached:          1159564 kB
+SwapCached:         7116 kB
+Active:          1478528 kB
+Inactive:         854700 kB
+Active(anon):     742844 kB
+Inactive(anon):   220584 kB
+Active(file):     735684 kB
+Inactive(file):   634116 kB
+Unevictable:       17200 kB
+Mlocked:           17200 kB
+HighTotal:       3116028 kB
+HighFree:         257020 kB
+LowTotal:         613412 kB
+LowFree:           41328 kB
+SwapTotal:       1850384 kB
+SwapFree:        1007404 kB
+Dirty:              1324 kB
+Writeback:             0 kB
+AnonPages:        960352 kB
+Mapped:           473952 kB
+Shmem:              2228 kB
+Slab:             158404 kB
+SReclaimable:      53276 kB
+SUnreclaim:       105128 kB
+KernelStack:       31144 kB
+PageTables:        97984 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     3715104 kB
+Committed_AS:   55022236 kB
+VmallocTotal:     358400 kB
+VmallocUsed:      196900 kB
+VmallocChunk:      68372 kB
+
+[0] 		total        used        free      shared     buffers
+Mem:       3818946560  3513913344   305033216     2281472   232951808
+-/+ buffers/cache:     3280961536   537985024
+Swap:      1894793216   863129600  1031663616
+
+[1] cat: /proc/version: Permission denied
+
+[1] /data/user/0/juniojsv.mtk.easy.su/files/magisk-boot.sh[124]: ./mtk-su: not executable: 64-bit ELF file
+
+deleted magisk-boot.sh
+deleted 32/magiskinit
+deleted 64/magiskinit
+deleted 32/mtk-su
+deleted 64/mtk-su
 # Magisk Changelog
 
 ### v27.0
